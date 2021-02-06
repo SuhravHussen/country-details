@@ -1,0 +1,23 @@
+#all-countries{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.divStyle{
+  color:#22e463;
+  margin: 20px 5px;
+  background-clip:border-box;
+  height: 140px;
+  width: auto;
+  width: 20%;
+  padding: 10px;
+  text-align: center;
+  background-size: cover;
+  
+}
+img{
+    height: 50px;
+    width: 80px;
+}
